@@ -1,0 +1,32 @@
+{
+  "espino-blanco": {
+    "local_path": "assets/img/content/espino-blanco.jpg",
+    "attribution_html": "Foto: Didier Descouens / <a href=\"https://commons.wikimedia.org/wiki/File%3A%28MHNT%29_Crataegus_monogyna_-_Fruits.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29_Crataegus_monogyna_-_Fruits.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "alcachofa": {
+    "local_path": "assets/img/content/alcachofa.jpg",
+    "attribution_html": "Foto: Wilfredor / <a href=\"https://commons.wikimedia.org/wiki/File%3AArtichoke_in_Brazil.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AArtichoke_in_Brazil.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "magnesio": {
+    "local_path": "assets/img/content/magnesio.jpg",
+    "attribution_html": "Foto: Jacek Halicki / <a href=\"https://commons.wikimedia.org/wiki/File%3A2023_Magne-B6_Max_%28suplement_diety%29.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3A2023_Magne-B6_Max_%28suplement_diety%29.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "hipertension": {
+    "local_path": "assets/img/content/hipertension.jpg",
+    "attribution_html": "Foto: Kris D from Metropolia Silesia, Upper Silesia ( Oberschlesien ) / <a href=\"https://commons.wikimedia.org/wiki/File%3ABlood_pressure_measurement%2C_Poland.png\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"nofollow\">CC BY-SA 2.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3ABlood_pressure_measurement%2C_Poland.png",
+    "license": "CC BY-SA 2.0"
+  },
+  "colesterol-alto": {
+    "local_path": "assets/img/content/colesterol-alto.jpg",
+    "attribution_html": "Foto: Sameem Arif / <a href=\"https://commons.wikimedia.org/wiki/File%3AAtherosclerosis_%28HD%29.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AAtherosclerosis_%28HD%29.jpg",
+    "license": "CC BY-SA 4.0"
+  }
+}
