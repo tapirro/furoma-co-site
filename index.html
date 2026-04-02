@@ -867,7 +867,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
-      var embedV=19;
+      var embedV=20;
       var hadInteraction=false;
       ['click','touchstart','scroll','mousemove','keydown'].forEach(function(evt){document.addEventListener(evt,function(){hadInteraction=true},{once:true,passive:true})});
       function beacon(path,data){
@@ -1148,6 +1148,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "Lo que no te dicen sobre la presión alta", "description": "Video informativo sobre Furoma - Lo que no te dicen sobre la presión alta", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/54_curiosity_gap_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/54_curiosity_gap_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "¿Presión alta? Esto te interesa", "description": "Video informativo sobre Furoma - ¿Presión alta? Esto te interesa", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/63_question_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/63_question_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Controla tu presión naturalmente", "description": "Video informativo sobre Furoma - Controla tu presión naturalmente", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/47_doctor_says_problem_solution_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/47_doctor_says_problem_solution_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Mitos sobre la hipertensión", "description": "Video informativo sobre Furoma - Mitos sobre la hipertensión", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/67_myth_bust_myth_debunk_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/67_myth_bust_myth_debunk_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
