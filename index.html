@@ -895,7 +895,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var engaged={};
       var engageCount=0;
       var formShown=false;
-      var embedV=10;
+      var embedV=12;
       var hasPlayed=false;
       function track(evt,vid,src,extra){
         var data={event:evt,video:vid,site:location.hostname,source:src,ts:Date.now(),embed_v:embedV,session_id:sid,visitor_id:visId,visit_number:vn};
@@ -944,7 +944,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
             engageCount++;
             hasPlayed=true;
             track('play',vid,v.getAttribute('data-src'));
-            setTimeout(function(){if(hasPlayed)showLeadForm()},12000);
+            setTimeout(function(){if(hasPlayed)showLeadForm()},6000);
             }
           }
         });
@@ -1010,11 +1010,24 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         document.body.appendChild(t);
         setTimeout(function(){t.style.opacity='0';setTimeout(function(){t.remove()},300)},2000);
       }
+      // Scroll-past trigger: show form when user scrolls past video section (even without play)
+      var section=document.querySelector('.video-embed-section');
+      if(section){
+        var scrollObs=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){
+            if(!e.isIntersecting&&e.boundingClientRect.top<0){
+              showLeadForm();scrollObs.disconnect();
+            }
+          });
+        },{threshold:0});
+        scrollObs.observe(section);
+      }
     })();
     </script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "Lo que no te dicen sobre la presión alta", "description": "Video informativo sobre Furoma - Lo que no te dicen sobre la presión alta", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/54_curiosity_gap_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/54_curiosity_gap_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "¿Presión alta? Esto te interesa", "description": "Video informativo sobre Furoma - ¿Presión alta? Esto te interesa", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/63_question_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/63_question_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Controla tu presión naturalmente", "description": "Video informativo sobre Furoma - Controla tu presión naturalmente", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/47_doctor_says_problem_solution_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/47_doctor_says_problem_solution_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Mitos sobre la hipertensión", "description": "Video informativo sobre Furoma - Mitos sobre la hipertensión", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/67_myth_bust_myth_debunk_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/67_myth_bust_myth_debunk_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
