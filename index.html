@@ -832,8 +832,10 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         var x=new XMLHttpRequest();
         x.open('POST',API+path);
         x.setRequestHeader('Content-Type','application/json');
+        x.timeout=10000;
         x.onload=function(){cb&&cb(x.status)};
         x.onerror=function(){cb&&cb(0)};
+        x.ontimeout=function(){cb&&cb(0)};
         x.send(JSON.stringify(data));
       }
       fetch('https://tapirro.github.io/hilart-shorts/api-config.json',{cache:'no-cache'}).then(function(r){return r.json()}).then(function(d){
@@ -848,7 +850,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var engaged={};
       var engageCount=0;
       var formShown=false;
-      var embedV=5;
+      var embedV=6;
       var viewTimer=null;
       var viewStart=0;
       function track(evt,vid,src,extra){
@@ -865,7 +867,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         var f=document.getElementById('embed-lead-form');
         if(f){f.style.display='block';setTimeout(function(){f.style.transform='translateY(0)'},50)}
         var cl=document.getElementById('embed-lead-close');
-        if(cl)cl.addEventListener('click',function(){f.style.transform='translateY(100%)';setTimeout(function(){f.style.display='none'},400)});
+        if(cl)cl.addEventListener('click',function(){f.style.transform='translateY(100%)';setTimeout(function(){f.style.display='none'},400);track('form_dismissed','',location.hostname)});
         track('form_show','',location.hostname);
       }
       var io=new IntersectionObserver(function(entries){
@@ -928,6 +930,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           }else{
             btn.textContent='Enviar';btn.disabled=false;
             form.querySelector('.embed-lead-error').textContent='Error. Int\u00e9ntalo de nuevo.';
+            track('form_error','status_'+status,location.hostname);
           }
         });
       });
@@ -936,6 +939,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "Lo que no te dicen sobre la presión alta", "description": "Video informativo sobre Furoma - Lo que no te dicen sobre la presión alta", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/54_curiosity_gap_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/54_curiosity_gap_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "¿Presión alta? Esto te interesa", "description": "Video informativo sobre Furoma - ¿Presión alta? Esto te interesa", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/63_question_education_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/63_question_education_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Controla tu presión naturalmente", "description": "Video informativo sobre Furoma - Controla tu presión naturalmente", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/47_doctor_says_problem_solution_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/47_doctor_says_problem_solution_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}, {"@type": "VideoObject", "name": "Mitos sobre la hipertensión", "description": "Video informativo sobre Furoma - Mitos sobre la hipertensión", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/67_myth_bust_myth_debunk_furoma.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/67_myth_bust_myth_debunk_furoma.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://furoma.co/"}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
