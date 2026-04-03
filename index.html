@@ -941,7 +941,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
-      var embedV=28;
+      var embedV=29;
       var ua=navigator.userAgent||'';
       var ref=document.referrer||'';
       var sw=screen.width||0;
@@ -1097,7 +1097,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           if(hasPlayed)showLeadForm();
         });
         v.addEventListener('timeupdate',function(){
-          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>8000)showLeadForm();
+          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>5000)showLeadForm();
         });
       });
       // Lead form submission
@@ -1220,6 +1220,8 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         },{threshold:0});
         scrollObs.observe(section);
       }
+      // Page-time trigger: show form after 20s if user has interacted (even without video click)
+      setTimeout(function(){if(hadInteraction&&!formShown)showLeadForm()},20000);
       // Floating video CTA — draws attention to video section when it's below the fold
       // Appears after 5s, pulses, scrolls to videos on tap, hides when section is visible
       if(section){
@@ -1264,6 +1266,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo bajar la presión arterial naturalmente?", "acceptedAnswer": {"@type": "Answer", "text": "Tres pasos efectivos: aumentar potasio natural (plátano, aguacate, papa), practicar respiración profunda 5 minutos diarios (4 seg inhalar, 6 seg exhalar), y limitar café a 2 tazas máximo — el té de hibisco (jamaica) reduce la presión naturalmente."}}, {"@type": "Question", "name": "¿Qué alimentos ayudan a controlar la presión arterial?", "acceptedAnswer": {"@type": "Answer", "text": "Plátano, aguacate, papa, espinaca y legumbres son ricos en potasio, que contrarresta el sodio. El té de hibisco (jamaica) tiene efecto antihipertensivo. Reduce la sal a menos de 5g diarios."}}, {"@type": "Question", "name": "¿Cuál es la presión arterial normal por edad?", "acceptedAnswer": {"@type": "Answer", "text": "Valores normales: adultos jóvenes 120/80 mmHg, mayores de 60 hasta 140/90 puede ser aceptable. Hipertensión comienza en 140/90 de forma sostenida. Mídete la presión en reposo, sentado, 2 veces al día (mañana y noche) durante una semana para obtener tu promedio real."}}, {"@type": "Question", "name": "¿Por qué sube la presión arterial?", "acceptedAnswer": {"@type": "Answer", "text": "Causas más comunes: exceso de sal en la dieta, estrés crónico, sedentarismo, sobrepeso, consumo excesivo de alcohol y café, tabaquismo, y factores genéticos. En LATAM, la dieta alta en sodio (embutidos, snacks, sopas instantáneas) es el factor más común."}}, {"@type": "Question", "name": "¿Qué hacer cuando sube la presión de repente?", "acceptedAnswer": {"@type": "Answer", "text": "Primero: siéntate, respira profundo y despacio (4 seg inhalar, 6 seg exhalar) durante 5 minutos. Toma agua. No hagas esfuerzo físico. Si la presión supera 180/120 o sientes dolor de pecho, mareo severo o dificultad para hablar, llama a emergencias inmediatamente."}}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
