@@ -1,84 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-           xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://furoma.co/</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
-      <!-- hilart-shorts-video-sitemap -->
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/118_hero_furoma_c311.jpg</video:thumbnail_loc>
-      <video:title>¿Presión arterial fuera de control?</video:title>
-      <video:description>Video informativo sobre Furoma - ¿Presión arterial fuera de control?</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/118_hero_furoma_c311.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/54_curiosity_gap_education_furoma.jpg</video:thumbnail_loc>
-      <video:title>Lo que no te dicen sobre la presión alta</video:title>
-      <video:description>Video informativo sobre Furoma - Lo que no te dicen sobre la presión alta</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/54_curiosity_gap_education_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/63_question_education_furoma.jpg</video:thumbnail_loc>
-      <video:title>¿Presión alta? Esto te interesa</video:title>
-      <video:description>Video informativo sobre Furoma - ¿Presión alta? Esto te interesa</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/63_question_education_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/67_myth_bust_myth_debunk_furoma.jpg</video:thumbnail_loc>
-      <video:title>Mitos sobre la hipertensión</video:title>
-      <video:description>Video informativo sobre Furoma - Mitos sobre la hipertensión</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/67_myth_bust_myth_debunk_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/42_curiosity_gap_education_furoma.jpg</video:thumbnail_loc>
-      <video:title>Tu presión arterial esconde algo</video:title>
-      <video:description>Video informativo sobre Furoma - Tu presión arterial esconde algo</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/42_curiosity_gap_education_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/28_list_listicle_furoma.jpg</video:thumbnail_loc>
-      <video:title>3 alimentos para la presión arterial</video:title>
-      <video:description>Video informativo sobre Furoma - 3 alimentos para la presión arterial</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/28_list_listicle_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/22_shock_reveal_testimonial_furoma.jpg</video:thumbnail_loc>
-      <video:title>Lo que nadie te dice sobre la presión alta</video:title>
-      <video:description>Video informativo sobre Furoma - Lo que nadie te dice sobre la presión alta</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/22_shock_reveal_testimonial_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/12_listicle_furoma.jpg</video:thumbnail_loc>
-      <video:title>Hábitos que controlan tu presión</video:title>
-      <video:description>Video informativo sobre Furoma - Hábitos que controlan tu presión</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/12_listicle_furoma.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
   </url>
   <url>
     <loc>https://furoma.co/como-se-toma/</loc>
@@ -157,5 +83,125 @@
     <lastmod>2026-03-30</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-hipertension/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-colesterol-alto/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-trigliceridos-altos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-mala-circulacion/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-arritmia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-insuficiencia-cardiaca/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-aterosclerosis/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-taquicardia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-palpitaciones/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-varices/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-presion-baja/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-angina-de-pecho/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-angina-estable/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-hipertension-pulmonar/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-soplo-cardiaco/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-colesterol-familiar/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-fibrilacion-auricular/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-hipertension-pulmonar-leve/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-claudicacion-intermitente/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://furoma.co/para-extrasistoles/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
