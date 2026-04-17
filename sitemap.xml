@@ -535,6 +535,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/acido-urico-y-corazon/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/acv-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -542,6 +548,12 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/anemia-ferropenica-cardiovascular/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/aneurisma-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -577,6 +589,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/cardiopatia-isquemica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/circulacion-cerebral/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -607,7 +625,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/dislipidemia-mixta/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/dolor-pecho-no-cardiaco/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/edema-piernas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/endocarditis-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -685,6 +721,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/miocardiopatia-hipertensiva/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/palpitaciones/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -751,6 +793,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/sindrome-postural-ortostatico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/soplo-cardiaco/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -764,6 +812,12 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/trigliceridos-altos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/trombosis-venosa-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
