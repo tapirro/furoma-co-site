@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>https://furoma.co/ingredientes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -505,6 +505,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingredientes/extracto-de-oliva/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingredientes/jengibre/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -517,8 +523,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingredientes/potasio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingredientes/sacha-inchi/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingredientes/vitamina-k2/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -567,6 +585,18 @@
   <url>
     <loc>https://furoma.co/condiciones/angina-estable/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/arritmia-y-cafeina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/arritmia-y-guarapo-energizante-co/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -625,6 +655,30 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/colesterol-y-aceite-de-palma/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/colesterol-y-frituras-colombianas/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/colesterol-y-sedentarismo-pandemia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/corazon-y-altitud-bogota/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/corazon-y-apnea-del-sueno-co/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -632,6 +686,12 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/corazon-y-contaminacion-medellin/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/corazon-y-estres-laboral/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -709,6 +769,30 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/hipertension-y-cafe-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/hipertension-y-ruido-transito-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/hipertension-y-tinto-cargado-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/hipertension-y-tinto-colombiano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/hipertension/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -721,6 +805,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/infarto-y-contaminacion-aire-bogota/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/insuficiencia-cardiaca/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -729,6 +819,12 @@
   <url>
     <loc>https://furoma.co/condiciones/insuficiencia-venosa-cronica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/insuficiencia-venosa-piernas/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -763,7 +859,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/piernas-hinchadas-y-calor-costeno/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/presion-alta-en-jovenes-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/presion-alta-sin-sintomas/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -794,6 +902,18 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/prevencion-infarto-40-50/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/prevencion-infarto-joven/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/prevencion-infarto-mujeres-co/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -859,6 +979,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/varices-y-embarazo-colombianas/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/varices-y-transporte-publico-bogota/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/varices/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -901,6 +1033,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingrediente/extracto-de-oliva/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingrediente/magnesio/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
@@ -913,27 +1051,21 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://furoma.co/que-contiene/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://furoma.co/ingrediente/potasio/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://furoma.co/ingrediente/potasio/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://furoma.co/ingrediente/vitamina-k2/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://furoma.co/ingrediente/extracto-de-oliva/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <loc>https://furoma.co/que-contiene/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
