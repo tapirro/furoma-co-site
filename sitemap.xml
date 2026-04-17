@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://furoma.co/opiniones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -151,6 +151,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/opiniones/insuficiencia-venosa-cronica/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/opiniones/mala-circulacion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -175,6 +181,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/opiniones/presion-arterial-sistolica-aislada/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/opiniones/presion-baja/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -187,8 +199,26 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/opiniones/prevencion-ictus/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/opiniones/prevencion-trombosis/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/opiniones/que-sirve/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/opiniones/rehabilitacion-cardiaca/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -235,266 +265,32 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://furoma.co/para-acv-prevencion/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-anemia-ferropenica-cardiovascular/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-angina-de-pecho/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-angina-estable/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-arritmia/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-aterosclerosis/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-calambres-nocturnos-piernas/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-circulacion-cerebral/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-claudicacion-intermitente/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-colesterol-alto/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-colesterol-familiar/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-colesterol-ldl-alto/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-edema-piernas/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-estres-cardiaco/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-extrasistoles/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-fatiga-cronica-cardiovascular/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-fibrilacion-auricular/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-hipertension-pulmonar-leve/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-hipertension-pulmonar/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-hipertension-resistente/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-hipertension/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-infarto-prevencion/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-insuficiencia-cardiaca/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-insuficiencia-venosa-cronica/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-mala-circulacion/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-palpitaciones/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-piernas-cansadas/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-presion-arterial-sistolica-aislada/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-presion-baja/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-presion-diastolica-alta/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-prevencion-ictus/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-prevencion-trombosis/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-que-sirve/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-rehabilitacion-cardiaca/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-retencion-de-liquidos/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-sindrome-metabolico/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-soplo-cardiaco/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-taquicardia/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-trigliceridos-altos/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-varices/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/para-venas-varicosas/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://furoma.co/ingredientes/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingredientes/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingredientes/alcachofa/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://furoma.co/ingredientes/coenzima-q10/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingredientes/curcuma/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -512,7 +308,7 @@
   </url>
   <url>
     <loc>https://furoma.co/ingredientes/jengibre/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -529,8 +325,32 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingredientes/resveratrol/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingredientes/sacha-inchi/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingredientes/te-verde/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingredientes/valeriana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingredientes/vitamina-b12/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -548,7 +368,7 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -585,6 +405,12 @@
   <url>
     <loc>https://furoma.co/condiciones/angina-estable/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/arritmia-y-cafe-colombiano/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -631,6 +457,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/circulacion-deficiente/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/claudicacion-intermitente/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -673,6 +505,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/corazon-y-aguardiente-colombiano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/corazon-y-altitud-bogota/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -704,6 +542,12 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/corazon-y-estres-laboral/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/corazon-y-fritanga-colombiana/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -799,6 +643,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/hipertension-y-altitud-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/hipertension-y-cafe-colombia/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -854,6 +704,12 @@
   </url>
   <url>
     <loc>https://furoma.co/condiciones/insuficiencia-venosa-piernas/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/condiciones/insuficiencia-venosa/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -967,6 +823,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/retencion-de-liquidos-cardiovascular/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/retencion-de-liquidos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1009,6 +871,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/condiciones/trombosis-venosa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/condiciones/varices-y-embarazo-colombianas/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1045,14 +913,32 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingrediente/ajo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingrediente/alcachofa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingrediente/coenzima-q10/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingrediente/curcuma/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1064,6 +950,12 @@
   </url>
   <url>
     <loc>https://furoma.co/ingrediente/extracto-de-oliva/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingrediente/jengibre/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
@@ -1087,6 +979,30 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://furoma.co/ingrediente/resveratrol/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingrediente/te-verde/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingrediente/valeriana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://furoma.co/ingrediente/vitamina-b12/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://furoma.co/ingrediente/vitamina-k2/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
@@ -1097,53 +1013,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/curcuma/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/alcachofa/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/resveratrol/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/jengibre/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/valeriana/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/vitamina-b12/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/acido-folico/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://furoma.co/ingrediente/te-verde/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
