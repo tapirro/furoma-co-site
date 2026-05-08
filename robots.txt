@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://furoma.co/sitemap-priority.xml
+Sitemap: https://furoma.co/sitemap.xml
